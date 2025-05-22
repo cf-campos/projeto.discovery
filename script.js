@@ -7,10 +7,7 @@ function togglemode() {
   //} else {
   // html.classList.add("light")
   //}
-
- 
-
-
+  
   //pergar a tag img
   const img = document.querySelector("#profile img")
   
